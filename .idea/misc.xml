@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/duffx/Documents/git/WTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.5148148148148148" />
+        <entry key="..\:/Users/duffx/Documents/git/WTest/app/src/main/res/drawable/card_background.xml" value="0.5411458333333333" />
+        <entry key="..\:/Users/duffx/Documents/git/WTest/app/src/main/res/drawable/ic_launcher_background.xml" value="0.5148148148148148" />
+        <entry key="..\:/Users/duffx/Documents/git/WTest/app/src/main/res/drawable/mailbox.xml" value="0.5148148148148148" />
+        <entry key="..\:/Users/duffx/Documents/git/WTest/app/src/main/res/drawable/mailbox_dark.xml" value="0.20729166666666668" />
+        <entry key="..\:/Users/duffx/Documents/git/WTest/app/src/main/res/layout/activity_main.xml" value="0.4633920296570899" />
+        <entry key="..\:/Users/duffx/Documents/git/WTest/app/src/main/res/layout/content_main.xml" value="0.42934782608695654" />
+        <entry key="..\:/Users/duffx/Documents/git/WTest/app/src/main/res/layout/dialog_loading_layout.xml" value="0.42934782608695654" />
+        <entry key="..\:/Users/duffx/Documents/git/WTest/app/src/main/res/layout/dialog_reading_layout.xml" value="0.40443840579710144" />
+        <entry key="..\:/Users/duffx/Documents/git/WTest/app/src/main/res/layout/fragment_first.xml" value="0.42934782608695654" />
+        <entry key="..\:/Users/duffx/Documents/git/WTest/app/src/main/res/layout/home_fragment.xml" value="0.3020833333333333" />
+        <entry key="..\:/Users/duffx/Documents/git/WTest/app/src/main/res/layout/postal_item_layout.xml" value="0.31666666666666665" />
+        <entry key="..\:/Users/duffx/Documents/git/WTest/app/src/main/res/layout/toolbar.xml" value="0.42934782608695654" />
+        <entry key="..\:/Users/duffx/Documents/git/WTest/app/src/main/res/menu/menu_main.xml" value="0.5208333333333334" />
+        <entry key="..\:/Users/duffx/Documents/git/WTest/app/src/main/res/xml/file_provider_path.xml" value="0.42934782608695654" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
